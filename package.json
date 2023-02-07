@@ -1,0 +1,22 @@
+{
+  "name": "basiccrudnodejs",
+  "version": "1.0.0",
+  "description": "Basic Crud App using Nodejs Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinaykrjs/basicCrudNodeJs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinaykrjs/basicCrudNodeJs/issues"
+  },
+  "homepage": "https://github.com/vinaykrjs/basicCrudNodeJs#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
