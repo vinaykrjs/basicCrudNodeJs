@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/vinaykrjs/basicCrudNodeJs#readme",
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "underscore": "^1.13.6"
   }
 }
