@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Prashanth",
+    "currency": "Rupee",
+    "bank": "HSBC",
+    "accountNumber": "889011"
+  },
+  {
+    "name": "Shahan",
+    "currency": "Riyal",
+    "bank": "Kuwait Bank",
+    "accountNumber": "889055"
+  },
+  {
+    "name": "Shankar",
+    "currency": "Rupee",
+    "bank": "CITI Bank",
+    "accountNumber": "833019"
+  },
+  {
+    "name": "Adams",
+    "currency": "Dollar",
+    "bank": "Fed corp",
+    "accountNumber": "119029"
+  },
+  {
+    "name": "Srinivas",
+    "currency": "Rupee",
+    "bank": "SBI",
+    "accountNumber": "819011"
+  }
+]
